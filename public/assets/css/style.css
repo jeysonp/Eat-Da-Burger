@@ -25,3 +25,19 @@ pre {
   text-align: center;
 }
 
+.btn-danger {
+  background-color: red;
+  color: #000;
+  border: none;
+  margin-top: 15px;
+}
+
+.btn-default {
+  background-color: #f4d942;
+}
+
+.form-control {
+  text-align: center;
+}
+
+
